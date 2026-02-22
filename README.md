@@ -1,6 +1,7 @@
 # 🎯 Patrones de Diseño y Lenguajes de Programación
 
 Este repositorio fue creado como apoyo para una **exposición académica**, donde se explican **patrones de diseño de software** y **lenguajes de programación**, con ejemplos prácticos de código.
+“Cada tipo de patrón de diseño resuelve un problema específico, pero todos buscan mejorar la estructura del software.”
 
 ---
 
